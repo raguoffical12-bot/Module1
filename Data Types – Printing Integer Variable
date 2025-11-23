@@ -15,7 +15,7 @@ To Write a python program to read and  then print the integer variable.
 ## PROGRAM
 ```python
 # Reg.No-212223070021
-# Name-Ragunandhan S
+# Name-Ragunandhn S
 a=int(input())
 print(a)
 
